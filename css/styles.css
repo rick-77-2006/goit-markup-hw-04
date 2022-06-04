@@ -262,8 +262,6 @@ img {
     background-color: var(--main-button-color);
 }
 
-/*-------------main body advantages line--------*/
-
 .adv-list {
     display: flex;
     flex-wrap: wrap;
