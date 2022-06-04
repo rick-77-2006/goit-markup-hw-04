@@ -223,7 +223,6 @@ img {
     fill: var(--link-color)
 }
 
-/*-------------main body hero line--------*/
 .section-hero {
     background-color: var(--hero-background-color);
     text-align: center;
